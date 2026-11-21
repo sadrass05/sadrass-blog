@@ -143,11 +143,6 @@ npm run preview
 | /admin/article/new | ArticleCreate | 新建文章 | 需要登录 |
 | /admin/article/:id | ArticleEdit | 编辑文章 | 需要登录 |
 
-## 登录信息
-
-- **用户名**: admin
-- **密码**: admin
-
 ## 浏览器支持
 
 - Chrome (推荐)
